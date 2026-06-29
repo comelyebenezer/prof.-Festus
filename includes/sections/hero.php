@@ -51,7 +51,7 @@
                         <span class="hero-stat-label">Projects</span>
                     </div>
                     <div class="hero-stat-item">
-                        <span class="hero-stat-number counter" data-target="25">0</span>
+                        <span class="hero-stat-number counter" data-target="200">0</span>
                         <span class="hero-stat-label">Awards Won</span>
                     </div>
                 </div>

@@ -45,7 +45,7 @@
                     </div>
                     <div class="about-stat">
                         <div class="about-stat-icon"><i class="fas fa-trophy"></i></div>
-                        <span class="about-stat-number counter" data-target="25">0</span>
+                        <span class="about-stat-number counter" data-target="200">0</span>
                         <span class="about-stat-label">Awards Received</span>
                     </div>
                     <div class="about-stat">
@@ -55,7 +55,7 @@
                     </div>
                     <div class="about-stat">
                         <div class="about-stat-icon"><i class="fas fa-graduation-cap"></i></div>
-                        <span class="about-stat-number counter" data-target="1000">0</span>
+                        <span class="about-stat-number counter" data-target="100">0</span>
                         <span class="about-stat-label">Mentored</span>
                     </div>
                 </div>
