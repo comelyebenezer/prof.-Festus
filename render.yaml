@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: festus-profile
+    env: docker
+    repo: https://github.com/comelyebenezer/prof.-Festus
+    branch: main
+    dockerfilePath: ./Dockerfile
