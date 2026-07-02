@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "year": "2023",
+    "title": "Senatorial Campaign",
+    "description": "Contested for the Senate on a transformative platform, advocating for educational reform, youth empowerment, and sustainable development policies."
+  },
+  {
+    "id": 2,
+    "year": "2022",
+    "title": "Asikhia Towers Completion",
+    "description": "Completed landmark 12-story commercial complex in Lagos, setting new standards for sustainable urban development in Nigeria."
+  },
+  {
+    "id": 3,
+    "year": "2020",
+    "title": "National Excellence Award",
+    "description": "Received the prestigious National Excellence Award in recognition of outstanding contributions to education, business, and national development."
+  },
+  {
+    "id": 4,
+    "year": "2019",
+    "title": "Special Adviser Appointment",
+    "description": "Appointed Special Adviser on Economic Matters, bringing academic rigor and business acumen to public policy formulation."
+  },
+  {
+    "id": 5,
+    "year": "2018",
+    "title": "Heritage Garden Estate",
+    "description": "Launched the 200-unit Heritage Garden Estate in Abuja, a model for modern, sustainable residential community development."
+  },
+  {
+    "id": 6,
+    "year": "2015",
+    "title": "Education Foundation Launch",
+    "description": "Founded the Asikhia Education Foundation, committing personal resources to scholarships, school development, and educational access."
+  },
+  {
+    "id": 7,
+    "year": "2010",
+    "title": "Oxford Research Fellowship",
+    "description": "Selected as Visiting Research Fellow at Oxford University, conducting groundbreaking research in educational policy and leadership."
+  },
+  {
+    "id": 8,
+    "year": "2008",
+    "title": "Harvard Executive Education",
+    "description": "Completed Executive Leadership Program at Harvard Kennedy School, enhancing skills in public policy and strategic leadership."
+  },
+  {
+    "id": 9,
+    "year": "2000",
+    "title": "Doctorate Degree",
+    "description": "Awarded PhD in Organizational Leadership, marking the culmination of extensive research and academic dedication."
+  },
+  {
+    "id": 10,
+    "year": "1990",
+    "title": "Academic Career Begins",
+    "description": "Began distinguished academic career as a lecturer, combining teaching excellence with groundbreaking research."
+  }
+]

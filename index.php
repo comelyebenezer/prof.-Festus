@@ -1,3 +1,4 @@
+<?php require 'includes/data_loader.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -42,15 +43,18 @@
         <div class="container">
             <a href="#home" class="navbar-brand">Prof. <span>Festus</span> A.</a>
             <div class="nav-links">
-                <a href="#home" class="active">Home</a>
-                <a href="#about">About</a>
-                <a href="#books">Books</a>
-                <a href="#real-estate">Real Estate</a>
-                <a href="#awards">Awards</a>
+                <a href="#home">About</a>
+                <a href="books.php">Books</a>
+                <a href="real-estate.php">Real Estate</a>
+                <a href="academics.php">Academics</a>
+                <a href="awards.php">Awards</a>
+                <a href="politics.php">Politics</a>
+                <a href="businesses.php">Businesses</a>
                 <a href="#blog">Blog</a>
                 <a href="#journal">Journal</a>
                 <a href="#articles">Articles</a>
                 <a href="#contact">Contact</a>
+                <a href="admin/" class="admin-link" title="Admin Panel"><i class="fas fa-cog"></i></a>
             </div>
             <div class="nav-toggle">
                 <span></span>
@@ -64,15 +68,15 @@
         <?php include 'includes/sections/hero.php'; ?>
         <?php include 'includes/sections/about.php'; ?>
         <?php include 'includes/sections/academics.php'; ?>
+        <?php include 'includes/sections/certificates.php'; ?>
+        <?php include 'includes/sections/awards.php'; ?>
         <?php include 'includes/sections/books.php'; ?>
         <?php include 'includes/sections/journal.php'; ?>
         <?php include 'includes/sections/articles.php'; ?>
-        <?php include 'includes/sections/awards.php'; ?>
         <?php include 'includes/sections/real-estate.php'; ?>
         <?php include 'includes/sections/politics.php'; ?>
         <?php include 'includes/sections/businesses.php'; ?>
         <?php include 'includes/sections/timeline.php'; ?>
-        <?php include 'includes/sections/testimonials.php'; ?>
         <?php include 'includes/sections/blog.php'; ?>
         <?php include 'includes/sections/contact.php'; ?>
     </main>
@@ -101,6 +105,7 @@
                         <li><a href="#journal">Journal</a></li>
                         <li><a href="#articles">Articles</a></li>
                         <li><a href="#contact">Contact</a></li>
+                        <li><a href="admin/" title="Admin Panel">Admin</a></li>
                     </ul>
                 </div>
                 <div>
@@ -117,8 +122,8 @@
                 <div>
                     <h4>Contact</h4>
                     <ul class="footer-links">
-                        <li><a href="mailto:contact@professorfestusasikhia.com"><i class="fas fa-envelope"></i> Email</a></li>
-                        <li><a href="tel:+234XXXXXXXXXX"><i class="fas fa-phone"></i> Call</a></li>
+                        <li><a href="mailto:drfestusasikhia@gmail.com"><i class="fas fa-envelope"></i> Email</a></li>
+                        <li><a href="tel:08091769651"><i class="fas fa-phone"></i> Call</a></li>
                         <li><a href="#contact"><i class="fas fa-comment"></i> Message</a></li>
                     </ul>
                 </div>

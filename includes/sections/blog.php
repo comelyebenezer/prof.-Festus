@@ -1,4 +1,6 @@
-<section class="books section-padding" id="blog">
+<?php require 'includes/data_loader.php'; ?>
+<?php $all_items = load_data('blog.json'); $blog_posts = array_slice($all_items, 0, 4); ?>
+<section class="blog section-padding" id="blog">
     <div class="container">
         <div class="section-header reveal">
             <span class="section-label">Blog</span>
@@ -9,39 +11,28 @@
             </p>
         </div>
 
-        <div class="books-grid stagger-children">
-            <div class="book-card">
-                <div class="book-icon"><i class="fas fa-pen-fancy"></i></div>
-                <h3>The Future of Education in Nigeria</h3>
-                <div class="book-subtitle">March 15, 2026</div>
-                <p>Exploring the transformative potential of technology, policy reform, and innovative teaching methods in reshaping Nigeria's educational landscape for the 21st century.</p>
-                <div class="book-meta">
-                    <span><i class="fas fa-tag"></i> Education</span>
-                    <span><i class="fas fa-clock"></i> 5 min read</span>
+        <div class="blog-grid stagger-children">
+            <?php foreach ($blog_posts as $id => $item): ?>
+            <a href="single-blog.php?id=<?= htmlspecialchars($id) ?>" class="blog-card">
+                <div class="blog-img" style="background: linear-gradient(135deg, <?= htmlspecialchars($item['gradient_start'] ?? '#1a365d') ?>, <?= htmlspecialchars($item['gradient_end'] ?? '#2d6a9f') ?>);">
+                    <i class="<?= htmlspecialchars($item['icon'] ?? 'fas fa-newspaper') ?>"></i>
                 </div>
-            </div>
+                <div class="blog-content">
+                    <h3><?= htmlspecialchars($item['title'] ?? '') ?></h3>
+                    <div class="blog-meta">
+                        <span><i class="fas fa-calendar"></i> <?= htmlspecialchars($item['date'] ?? '') ?></span>
+                        <span><i class="fas fa-tag"></i> <?= htmlspecialchars($item['category'] ?? '') ?></span>
+                    </div>
+                    <p class="blog-excerpt"><?= htmlspecialchars($item['excerpt'] ?? '') ?></p>
+                </div>
+            </a>
+            <?php endforeach; ?>
+        </div>
 
-            <div class="book-card">
-                <div class="book-icon"><i class="fas fa-pen-fancy"></i></div>
-                <h3>Leadership Lessons from Academia</h3>
-                <div class="book-subtitle">February 28, 2026</div>
-                <p>Drawing from decades in higher education, I share the leadership principles that transcend the classroom and apply to every sector of society.</p>
-                <div class="book-meta">
-                    <span><i class="fas fa-tag"></i> Leadership</span>
-                    <span><i class="fas fa-clock"></i> 7 min read</span>
-                </div>
-            </div>
-
-            <div class="book-card">
-                <div class="book-icon"><i class="fas fa-pen-fancy"></i></div>
-                <h3>Real Estate as a Catalyst for Development</h3>
-                <div class="book-subtitle">January 10, 2026</div>
-                <p>How strategic real estate development can drive economic growth, create jobs, and build sustainable communities across Africa.</p>
-                <div class="book-meta">
-                    <span><i class="fas fa-tag"></i> Real Estate</span>
-                    <span><i class="fas fa-clock"></i> 6 min read</span>
-                </div>
-            </div>
+        <div class="books-more-btn">
+            <a href="blog.php" class="btn btn-outline">
+                See More <i class="fas fa-arrow-right"></i>
+            </a>
         </div>
     </div>
 </section>

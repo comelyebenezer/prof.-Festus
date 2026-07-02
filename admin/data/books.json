@@ -1,0 +1,98 @@
+{
+  "1": {
+    "icon": "fa-book",
+    "title": "Leadership Beyond Boundaries",
+    "subtitle": "Principles for Transformational Impact",
+    "publisher": "Academic Press",
+    "year": "2020",
+    "pages": "320",
+    "description": "A comprehensive guide to leadership that transcends traditional boundaries, offering insights drawn from decades of experience across multiple sectors.",
+    "highlights": [
+      "Seven core principles of transformational leadership: vision, integrity, courage, empathy, resilience, collaboration, and service",
+      "Practical frameworks for articulating vision and building consensus",
+      "Strategies for building high-performing teams and fostering inclusive cultures",
+      "Leadership as service — serving a cause greater than oneself"
+    ],
+    "full_description": "Leadership Beyond Boundaries is a comprehensive guide to leadership that transcends traditional organizational, cultural, and sectoral boundaries. Drawing on decades of experience across academia, business, politics, and real estate development, this book offers a unique integrated perspective on what it means to lead effectively in a complex and interconnected world. The book is organized around seven core principles of transformational leadership: vision, integrity, courage, empathy, resilience, collaboration, and service. Each principle is explored through a combination of theoretical frameworks, practical case studies, and personal reflections from the author's own leadership journey."
+  },
+  "2": {
+    "icon": "fa-book",
+    "title": "The Nigerian Renaissance",
+    "subtitle": "Pathways to National Development",
+    "publisher": "Heritage Publishers",
+    "year": "2018",
+    "pages": "280",
+    "description": "A thought-provoking analysis of Nigeria's potential and the strategic pathways required to achieve sustainable national development and prosperity.",
+    "highlights": [
+      "Five pillars of national renewal: institutional reform, economic diversification, human capital development, infrastructure modernization, and social cohesion",
+      "Compelling case for moving beyond oil dependence to a knowledge-based economy",
+      "Transformative investments in education, healthcare, and skills development",
+      "Call to action for citizens, businesses, and civil society participation"
+    ],
+    "full_description": "The Nigerian Renaissance is a thought-provoking analysis of Nigeria's immense potential and the strategic pathways required to achieve sustainable national development and shared prosperity. The book argues that Nigeria stands at a historic crossroads, with the opportunity to transform its promise into reality. Drawing on extensive research and firsthand experience across multiple sectors, the book diagnoses the structural challenges that have historically constrained Nigeria's development — including weak institutions, infrastructure deficits, human capital gaps, and governance failures — while offering practical, evidence-based solutions."
+  },
+  "3": {
+    "icon": "fa-book",
+    "title": "Real Estate Wealth Creation",
+    "subtitle": "A Practical Guide for African Investors",
+    "publisher": "Business Press Ltd",
+    "year": "2016",
+    "pages": "245",
+    "description": "An essential resource for aspiring and seasoned real estate investors, providing practical strategies for wealth creation through property development.",
+    "highlights": [
+      "Full spectrum coverage from residential and commercial to land banking and development",
+      "Systematic approach to location analysis and market evaluation",
+      "Creative financing strategies including partnerships and real estate investment trusts",
+      "Navigating unique challenges of African real estate markets"
+    ],
+    "full_description": "Real Estate Wealth Creation is an essential resource for aspiring and seasoned real estate investors, providing practical strategies for wealth creation through property development. Drawing on over two decades of experience in the African real estate market, the book offers insights that are both theoretically grounded and practically applicable. The book covers the full spectrum of real estate investment — from residential and commercial properties to land banking and real estate development. It provides frameworks for analyzing markets, evaluating opportunities, financing acquisitions, and managing properties for maximum returns."
+  },
+  "4": {
+    "icon": "fa-book",
+    "title": "Education as Catalyst",
+    "subtitle": "Transforming Society Through Learning",
+    "publisher": "University Press",
+    "year": "2015",
+    "pages": "310",
+    "description": "An exploration of education's transformative power and its critical role in shaping individuals, communities, and nations for a better future.",
+    "highlights": [
+      "Education as tool for personal development, economic growth, democratic citizenship, and social change",
+      "Concrete recommendations for addressing challenges in developing countries",
+      "Advocacy for transformative investments in teacher training and development",
+      "Balanced assessment of educational technology opportunities and limitations"
+    ],
+    "full_description": "Education as Catalyst is an exploration of education's transformative power and its critical role in shaping individuals, communities, and nations. The book argues that education is the single most powerful investment any society can make in its future. Drawing on his extensive experience as an academic and educational administrator, the author presents a compelling vision for educational transformation that goes beyond mere reform to fundamental reimagining of what education can and should be."
+  },
+  "5": {
+    "icon": "fa-book",
+    "title": "Governance and Accountability",
+    "subtitle": "Building Trust in Public Service",
+    "publisher": "Policy Press",
+    "year": "2013",
+    "pages": "265",
+    "description": "A critical examination of governance structures and the imperative of accountability in building public trust and effective institutions.",
+    "highlights": [
+      "Analysis of root causes of governance failures including corruption and weak oversight",
+      "Key dimensions: transparency, participation, rule of law, effectiveness, and accountability",
+      "Accountability as a cultural value embedded in institutional DNA",
+      "Mechanisms for citizen participation and active citizenship"
+    ],
+    "full_description": "Governance and Accountability is a critical examination of governance structures and the imperative of accountability in building public trust and effective institutions. The book addresses one of the most pressing challenges facing developing democracies: how to create institutions that serve the public interest. Drawing on case studies from Nigeria and other African countries, the book analyzes the root causes of governance failures — including corruption, weak oversight, political interference, and capacity constraints — and offers practical solutions for building more effective and accountable institutions."
+  },
+  "6": {
+    "icon": "fa-book",
+    "title": "The Entrepreneur's Mindset",
+    "subtitle": "Strategies for Business Success",
+    "publisher": "Business Press Ltd",
+    "year": "2012",
+    "pages": "230",
+    "description": "Practical wisdom and proven strategies for cultivating an entrepreneurial mindset and building successful, sustainable business ventures.",
+    "highlights": [
+      "Psychological foundations of entrepreneurship: attitudes, beliefs, and habits",
+      "Systematic approach to opportunity recognition and market assessment",
+      "Creative resource mobilization including bootstrapping and strategic alliances",
+      "Case studies of successful African entrepreneurs and lessons from failures"
+    ],
+    "full_description": "The Entrepreneur's Mindset offers practical wisdom and proven strategies for cultivating an entrepreneurial mindset and building successful, sustainable business ventures. Drawing on the author's own entrepreneurial journey and extensive research, the book provides a roadmap for aspiring entrepreneurs. The book begins by exploring the psychological foundations of entrepreneurship — the attitudes, beliefs, and habits that distinguish successful entrepreneurs. It argues that while certain personal qualities are important, an entrepreneurial mindset can be developed and cultivated through deliberate practice."
+  }
+}

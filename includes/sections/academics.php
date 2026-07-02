@@ -1,3 +1,5 @@
+<?php require 'includes/data_loader.php'; ?>
+<?php $all_items = load_data('academics.json'); ksort($all_items); $academics = array_slice($all_items, 0, 6, true); ?>
 <section class="academics section-padding" id="academics">
     <div class="container">
         <div class="section-header reveal">
@@ -9,56 +11,24 @@
             </p>
         </div>
 
-        <div class="academics-timeline stagger-children">
-            <div class="academic-item">
-                <div class="academic-icon"><i class="fas fa-graduation-cap"></i></div>
+        <div class="academics-grid stagger-children">
+            <?php foreach ($academics as $id => $item): ?>
+            <a href="single-academic.php?id=<?= htmlspecialchars($id) ?>" class="academic-card">
+                <div class="academic-icon"><i class="<?= htmlspecialchars($item['icon'] ?? 'fas fa-graduation-cap') ?>"></i></div>
                 <div class="academic-info">
-                    <h4>University of Lagos</h4>
-                    <div class="academic-degree">Doctor of Philosophy (PhD)</div>
-                    <div class="academic-year">1995 - 2000</div>
-                    <p>Doctoral research focused on organizational leadership and educational management, laying the groundwork for decades of academic contribution.</p>
+                    <h4><?= htmlspecialchars($item['institution'] ?? '') ?></h4>
+                    <div class="academic-degree"><?= htmlspecialchars($item['degree'] ?? '') ?></div>
+                    <div class="academic-year"><?= htmlspecialchars($item['year'] ?? '') ?></div>
+                    <p><?= htmlspecialchars($item['description'] ?? '') ?></p>
                 </div>
-            </div>
+            </a>
+            <?php endforeach; ?>
+        </div>
 
-            <div class="academic-item">
-                <div class="academic-icon"><i class="fas fa-university"></i></div>
-                <div class="academic-info">
-                    <h4>University of Ibadan</h4>
-                    <div class="academic-degree">Master of Science (M.Sc.)</div>
-                    <div class="academic-year">1990 - 1993</div>
-                    <p>Advanced studies in business administration and management, distinguishing himself as a top-tier scholar in his cohort.</p>
-                </div>
-            </div>
-
-            <div class="academic-item">
-                <div class="academic-icon"><i class="fas fa-school"></i></div>
-                <div class="academic-info">
-                    <h4>University of Benin</h4>
-                    <div class="academic-degree">Bachelor of Science (B.Sc.)</div>
-                    <div class="academic-year">1985 - 1989</div>
-                    <p>First Class Honours graduate in Business Administration, setting the stage for an illustrious career in academia and beyond.</p>
-                </div>
-            </div>
-
-            <div class="academic-item">
-                <div class="academic-icon"><i class="fas fa-certificate"></i></div>
-                <div class="academic-info">
-                    <h4>Harvard Kennedy School</h4>
-                    <div class="academic-degree">Executive Leadership Program</div>
-                    <div class="academic-year">2008</div>
-                    <p>Completed advanced executive education in public leadership and policy development at one of the world's most prestigious institutions.</p>
-                </div>
-            </div>
-
-            <div class="academic-item">
-                <div class="academic-icon"><i class="fas fa-globe"></i></div>
-                <div class="academic-info">
-                    <h4>University of Oxford</h4>
-                    <div class="academic-degree">Visiting Research Fellow</div>
-                    <div class="academic-year">2010 - 2011</div>
-                    <p>Conducted groundbreaking research in educational policy and organizational behavior as a visiting scholar.</p>
-                </div>
-            </div>
+        <div class="books-more-btn">
+            <a href="academics.php" class="btn btn-outline">
+                See More <i class="fas fa-arrow-right"></i>
+            </a>
         </div>
     </div>
 </section>

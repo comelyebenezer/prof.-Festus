@@ -23,14 +23,14 @@
                         <div class="detail-icon"><i class="fas fa-envelope"></i></div>
                         <div>
                             <h5>Email</h5>
-                            <span>contact@professorfestusasikhia.com</span>
+                            <span>drfestusasikhia@gmail.com</span>
                         </div>
                     </div>
                     <div class="contact-detail">
                         <div class="detail-icon"><i class="fas fa-phone"></i></div>
                         <div>
                             <h5>Phone</h5>
-                            <span>+234 XXX XXX XXXX</span>
+                            <span>08091769651</span>
                         </div>
                     </div>
                     <div class="contact-detail">

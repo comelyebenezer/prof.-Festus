@@ -1,0 +1,114 @@
+{
+  "1": {
+    "icon": "fa-trophy",
+    "title": "National Excellence Award",
+    "org": "Federal Government of Nigeria",
+    "year": "2023",
+    "description": "Recognized for outstanding contributions to national development and educational reform.",
+    "full_description": "The National Excellence Award is the highest civilian recognition conferred by the Federal Government of Nigeria, honoring individuals whose contributions have significantly advanced national development across multiple sectors. Prof. Festus Asikhia was recognized for his outstanding contributions to national development and educational reform. The award acknowledges his decades of service in academia, his transformative work in real estate development, and his commitment to public service.",
+    "highlights": [
+      "Highest civilian recognition from the Federal Government of Nigeria",
+      "Acknowledges decades of service in academia, real estate, and public service",
+      "Award ceremony held at the Presidential Villa in Abuja",
+      "Dedicated to all Nigerian educators working to shape future leaders"
+    ]
+  },
+  "2": {
+    "icon": "fa-medal",
+    "title": "Distinguished Professor of the Year",
+    "org": "National Universities Commission",
+    "year": "2022",
+    "description": "Honored for exceptional research output, mentorship, and academic leadership.",
+    "full_description": "The Distinguished Professor of the Year award is presented annually by the National Universities Commission (NUC) to recognize exceptional research output, mentorship, and academic leadership in Nigerian universities. Prof. Festus Asikhia was honored for his exemplary contributions to educational management research, his mentorship of emerging scholars, and his leadership in advancing academic excellence in Nigerian higher education.",
+    "highlights": [
+      "Presented by the National Universities Commission (NUC)",
+      "Recognized for exceptional research output and mentorship",
+      "Mentorship program has produced several PhD graduates",
+      "Called for increased investment in university research infrastructure"
+    ]
+  },
+  "3": {
+    "icon": "fa-award",
+    "title": "Real Estate Icon Award",
+    "org": "African Real Estate Society",
+    "year": "2021",
+    "description": "Recognized for pioneering sustainable real estate development across West Africa.",
+    "full_description": "The Real Estate Icon Award is presented by the African Real Estate Society (ARES) to recognize pioneering contributions to sustainable real estate development across the African continent. Prof. Festus Asikhia was recognized for his pioneering work in sustainable real estate development across West Africa. His developments have set new standards for quality, affordability, and environmental responsibility in the region's real estate sector.",
+    "highlights": [
+      "Presented by the African Real Estate Society (ARES)",
+      "Pioneering sustainable real estate development across West Africa",
+      "Innovative approach to affordable housing and green building practices",
+      "Advocated for stronger public-private partnerships in addressing housing deficit"
+    ]
+  },
+  "4": {
+    "icon": "fa-star",
+    "title": "Leadership Excellence Award",
+    "org": "African Leadership Forum",
+    "year": "2020",
+    "description": "Celebrated for transformative leadership and commitment to good governance.",
+    "full_description": "The Leadership Excellence Award is presented by the African Leadership Forum to celebrate transformative leadership and commitment to good governance across the African continent. Prof. Festus Asikhia was celebrated for his transformative leadership and commitment to good governance. The award recognizes his ability to lead effectively across multiple sectors — academia, business, and public service — while maintaining the highest standards of integrity.",
+    "highlights": [
+      "Presented by the African Leadership Forum",
+      "Recognizes ability to lead across academia, business, and public service",
+      "Consistent advocacy for ethical leadership and transparency",
+      "Called on African leaders to prioritize the common good"
+    ]
+  },
+  "5": {
+    "icon": "fa-globe-africa",
+    "title": "Community Development Champion",
+    "org": "United Nations Development Programme",
+    "year": "2019",
+    "description": "Honored for impactful community development initiatives and social responsibility.",
+    "full_description": "The Community Development Champion award is presented by the United Nations Development Programme (UNDP) to recognize impactful community development initiatives and social responsibility. Prof. Festus Asikhia was honored for his impactful community development initiatives and social responsibility programs. His work in promoting education, healthcare, and economic opportunity in underserved communities has touched thousands of lives.",
+    "highlights": [
+      "Presented by the United Nations Development Programme (UNDP)",
+      "Scholarship programs for underprivileged students",
+      "Support for community health initiatives and rural infrastructure",
+      "Holistic approach to community development as a model for social impact"
+    ]
+  },
+  "6": {
+    "icon": "fa-book-open",
+    "title": "Best Author in Leadership",
+    "org": "African Literary Awards",
+    "year": "2018",
+    "description": "Recognized for outstanding literary contribution to leadership literature.",
+    "full_description": "The Best Author in Leadership award is presented by the African Literary Awards to recognize outstanding literary contributions to leadership literature and thought leadership on the continent. Prof. Festus Asikhia was recognized for his outstanding literary contribution to leadership literature. His books on leadership, governance, and national development have become essential reading for current and aspiring leaders across Africa.",
+    "highlights": [
+      "Presented by the African Literary Awards",
+      "Books on leadership and governance essential reading across Africa",
+      "Praised for combining academic rigor with practical wisdom",
+      "Influenced a generation of African leaders in government, business, and civil society"
+    ]
+  },
+  "7": {
+    "icon": "fa-handshake",
+    "title": "Philanthropist of the Year",
+    "org": "Nigerian Charity Foundation",
+    "year": "2017",
+    "description": "Honored for generous philanthropic contributions to education and healthcare.",
+    "full_description": "The Philanthropist of the Year award is presented by the Nigerian Charity Foundation to honor generous philanthropic contributions to education, healthcare, and community development. Prof. Festus Asikhia was honored for his generous philanthropic contributions to education and healthcare. His foundation has provided scholarships to hundreds of underprivileged students and supported healthcare infrastructure in rural communities.",
+    "highlights": [
+      "Presented by the Nigerian Charity Foundation",
+      "Provided scholarships to hundreds of underprivileged students",
+      "Supported healthcare infrastructure in rural communities",
+      "Strategic approach to philanthropy creating lasting impact"
+    ]
+  },
+  "8": {
+    "icon": "fa-chart-line",
+    "title": "Business Excellence Award",
+    "org": "Nigerian Chamber of Commerce",
+    "year": "2016",
+    "description": "Recognized for outstanding entrepreneurial achievement and business innovation.",
+    "full_description": "The Business Excellence Award is presented by the Nigerian Chamber of Commerce to recognize outstanding entrepreneurial achievement and business innovation in Nigeria. Prof. Festus Asikhia was recognized for his outstanding entrepreneurial achievement and business innovation. His businesses have created thousands of jobs and contributed significantly to Nigeria's economic growth.",
+    "highlights": [
+      "Presented by the Nigerian Chamber of Commerce",
+      "Businesses have created thousands of jobs across Nigeria",
+      "Commitment to ethical business practices and mentoring young entrepreneurs",
+      "Business philosophy balancing profit with purpose"
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "1": {
+    "icon": "fa-newspaper",
+    "title": "Rethinking Nigeria's Educational Priorities",
+    "publication": "The Guardian Nigeria",
+    "date": "January 2026",
+    "description": "An opinion piece arguing for a fundamental restructuring of educational priorities to align with 21st-century global demands and local realities.",
+    "full_description": "Nigeria's educational system is at a critical inflection point. With over 200 million citizens and the youngest population in the world, the decisions we make today about education will shape our nation's trajectory for generations to come. For decades, our educational priorities have focused on access and enrollment. While these goals remain important, we must now shift our focus to quality, relevance, and outcomes. The question is no longer just how many children are in school but what are they learning, and does it prepare them for the future?",
+    "highlights": [
+      "Shift focus from access to quality, relevance, and outcomes",
+      "Elevate technical and vocational education to parity with academic pathways",
+      "Invest in teacher training, compensation, and career pathways",
+      "Deploy technology thoughtfully with adequate infrastructure and training"
+    ],
+    "link": "#",
+    "link_text": "Read Full Article"
+  },
+  "2": {
+    "icon": "fa-newspaper",
+    "title": "The Role of Real Estate in National Development",
+    "publication": "Business Day Nigeria",
+    "date": "November 2025",
+    "description": "An article exploring how strategic real estate investment and development can serve as a powerful engine for economic growth and job creation.",
+    "full_description": "Real estate development is often viewed primarily through the lens of commerce — as a sector that generates profits for investors and provides shelter for residents. While these functions are important, they understate the transformative potential of strategic real estate development as an engine of national development. The real estate sector has multiplier effects that ripple through the entire economy. Every housing project creates jobs, stimulates demand, and generates tax revenue.",
+    "highlights": [
+      "Real estate has multiplier effects that ripple through the economy",
+      "Strategic public-private partnerships can address the housing deficit",
+      "Sustainable development and green building practices are essential",
+      "Government should streamline processes and provide infrastructure"
+    ],
+    "link": "#",
+    "link_text": "Read Full Article"
+  },
+  "3": {
+    "icon": "fa-newspaper",
+    "title": "Leadership and Governance in Challenging Times",
+    "publication": "Vanguard News",
+    "date": "August 2025",
+    "description": "A thought leadership article examining the qualities of effective leadership and governance necessary to navigate complex socio-economic challenges.",
+    "full_description": "Leadership is easy in good times. The true test of leadership comes during periods of crisis, uncertainty, and rapid change. In challenging times, the quality of leadership and governance determines whether nations and organizations merely survive or emerge stronger. Several qualities distinguish effective leaders: clarity of vision, decisiveness, and empathy. In the Nigerian context, our governance challenges require leadership that is both visionary and pragmatic.",
+    "highlights": [
+      "True leadership tested during crisis, uncertainty, and rapid change",
+      "Key qualities: clarity of vision, decisiveness, and empathy",
+      "Good governance built on transparency, accountability, and rule of law",
+      "Private sector and civil society have critical roles to play"
+    ],
+    "link": "#",
+    "link_text": "Read Full Article"
+  },
+  "4": {
+    "icon": "fa-newspaper",
+    "title": "Youth Empowerment Through Education and Enterprise",
+    "publication": "ThisDay Newspaper",
+    "date": "June 2025",
+    "description": "An article advocating for integrated approaches to youth empowerment that combine quality education with entrepreneurial skills development.",
+    "full_description": "Nigeria's youth are our greatest asset and our most urgent responsibility. With over 60% of our population under the age of 25, the decisions we make today about youth empowerment will determine the trajectory of our nation for decades to come. Youth empowerment requires an integrated approach that combines quality education with entrepreneurial skills development. Education provides the foundation; entrepreneurship provides the application.",
+    "highlights": [
+      "Over 60% of Nigeria's population is under 25",
+      "Integrated approach combining education with entrepreneurship",
+      "Access to capital remains a significant barrier for young entrepreneurs",
+      "Technology has democratized entrepreneurship across Africa"
+    ],
+    "link": "#",
+    "link_text": "Read Full Article"
+  }
+}

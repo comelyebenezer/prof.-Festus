@@ -1,0 +1,92 @@
+{
+  "1": {
+    "icon": "fa-graduation-cap",
+    "institution": "University of Lagos",
+    "degree": "Doctor of Philosophy (PhD)",
+    "year": "1995 - 2000",
+    "title": "PhD in Organizational Leadership & Educational Management",
+    "focus": "Organizational Leadership & Educational Management",
+    "description": "Prof. Festus Uwakhemen Asikhia earned his Doctor of Philosophy (PhD) from the prestigious University of Lagos, Nigeria's premier university. His doctoral research focused on organizational leadership and educational management, laying a robust academic foundation for his distinguished career.",
+    "highlights": [
+      "Pioneering research in organizational leadership frameworks",
+      "Development of innovative educational management models",
+      "Recognition for outstanding doctoral thesis contributions"
+    ],
+    "full_description": "The University of Lagos (UNILAG) is widely recognized as one of Africa's leading institutions of higher learning. Prof. Asikhia's PhD program involved rigorous coursework, comprehensive examinations, and an original dissertation that contributed significantly to the field of organizational behavior and educational leadership. His research findings have been cited extensively by scholars and practitioners alike, influencing policy decisions in educational institutions across Nigeria and beyond."
+  },
+  "2": {
+    "icon": "fa-university",
+    "institution": "University of Ibadan",
+    "degree": "Master of Science (M.Sc.)",
+    "year": "1990 - 1993",
+    "title": "M.Sc. in Business Administration & Management",
+    "focus": "Business Administration & Management",
+    "description": "Prof. Festus Uwakhemen Asikhia completed his Master of Science degree at the University of Ibadan, Nigeria's oldest and most respected university. His advanced studies in business administration and management distinguished him as a top-tier scholar.",
+    "highlights": [
+      "Distinguished academic performance in management studies",
+      "Advanced research in business administration methodologies",
+      "Foundation for future entrepreneurial and academic success"
+    ],
+    "full_description": "The University of Ibadan, established in 1948, is Nigeria's premier university with a rich tradition of academic excellence. During his M.Sc. program, Prof. Asikhia engaged in advanced study of business administration theories, management practices, and research methodologies. His master's thesis demonstrated exceptional analytical rigor and laid the groundwork for his subsequent doctoral research and professional achievements."
+  },
+  "3": {
+    "icon": "fa-school",
+    "institution": "University of Benin",
+    "degree": "Bachelor of Science (B.Sc.)",
+    "year": "1985 - 1989",
+    "title": "B.Sc. in Business Administration (First Class Honours)",
+    "focus": "Business Administration",
+    "description": "Prof. Festus Uwakhemen Asikhia graduated with First Class Honours from the University of Benin, setting the stage for an illustrious career in academia and beyond.",
+    "highlights": [
+      "First Class Honours graduate in Business Administration",
+      "Exceptional academic performance throughout undergraduate studies",
+      "Recipient of multiple academic excellence awards"
+    ],
+    "full_description": "The University of Benin (UNIBEN) is one of Nigeria's foremost institutions of higher learning. Prof. Asikhia's First Class Honours degree in Business Administration is a testament to his exceptional intellectual abilities and dedication to academic excellence from the very beginning of his educational journey. His undergraduate years were marked by consistent top-tier performance, leadership in student organizations, and a passion for knowledge that would define his entire career."
+  },
+  "4": {
+    "icon": "fa-certificate",
+    "institution": "Harvard Kennedy School",
+    "degree": "Executive Leadership Program",
+    "year": "2008",
+    "title": "Executive Leadership Program",
+    "focus": "Public Leadership & Policy Development",
+    "description": "Completed advanced executive education in public leadership and policy development at one of the world's most prestigious institutions.",
+    "highlights": [
+      "Advanced training in public policy and leadership",
+      "Networking with global leaders and policymakers",
+      "Practical frameworks for policy development and implementation"
+    ],
+    "full_description": "Harvard Kennedy School is globally renowned for its executive education programs that equip leaders with the skills needed to address complex public policy challenges. Prof. Asikhia's participation in this program provided him with cutting-edge frameworks for policy analysis, strategic leadership, and governance. The experience enriched his understanding of global best practices in public administration and strengthened his capacity for transformative leadership."
+  },
+  "5": {
+    "icon": "fa-globe",
+    "institution": "University of Oxford",
+    "degree": "Visiting Research Fellow",
+    "year": "2010 - 2011",
+    "title": "Visiting Research Fellowship",
+    "focus": "Educational Policy & Organizational Behavior",
+    "description": "Conducted groundbreaking research in educational policy and organizational behavior as a visiting scholar at one of the world's oldest and most prestigious universities.",
+    "highlights": [
+      "International research collaboration with Oxford faculty",
+      "Publication of influential research papers",
+      "Development of cross-cultural educational frameworks"
+    ],
+    "full_description": "The University of Oxford, consistently ranked among the world's top universities, provided Prof. Asikhia with a stimulating intellectual environment for his research. As a Visiting Research Fellow, he collaborated with leading scholars in educational policy and organizational behavior, contributing to groundbreaking studies that bridged African and Western educational perspectives. This experience significantly enhanced his research portfolio and international academic network."
+  },
+  "6": {
+    "icon": "fa-book",
+    "institution": "London School of Economics",
+    "degree": "Postdoctoral Research Fellowship",
+    "year": "2012 - 2013",
+    "title": "Postdoctoral Research in Organizational Behavior",
+    "focus": "Organizational Behavior & Leadership Dynamics",
+    "description": "Advanced postdoctoral research in organizational behavior and leadership dynamics at one of the world's leading social science institutions.",
+    "highlights": [
+      "Advanced research in organizational behavior theories",
+      "Collaboration with world-renowned social scientists",
+      "Development of innovative leadership assessment frameworks"
+    ],
+    "full_description": "The London School of Economics and Political Science (LSE) is a world-leading center for social science research and education. During his Postdoctoral Research Fellowship, Prof. Asikhia conducted advanced research in organizational behavior and leadership dynamics, working alongside distinguished faculty members. His postdoctoral work resulted in several publications and contributed to the development of innovative frameworks for understanding leadership effectiveness in diverse organizational contexts."
+  }
+}

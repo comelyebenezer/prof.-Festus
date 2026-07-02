@@ -1,0 +1,98 @@
+{
+  "1": {
+    "icon": "fa-city",
+    "title": "Asikhia Towers",
+    "company": "Festus Asikhia Realty",
+    "location": "Lagos, Nigeria",
+    "year": "2022",
+    "status": "Completed",
+    "description": "A landmark 12-story commercial complex featuring modern office spaces, retail outlets, and state-of-the-art facilities in the heart of Lagos.",
+    "highlights": [
+      "12-story commercial complex with modern office spaces",
+      "Prime location in the heart of Lagos business district",
+      "State-of-the-art facilities and infrastructure",
+      "Retail outlets and commercial spaces on lower floors"
+    ],
+    "full_description": "Asikhia Towers stands as a testament to Festus Asikhia Realty's commitment to excellence in commercial property development. This 12-story landmark complex was designed to meet the growing demand for premium office spaces in Lagos's bustling business district. The building features modern architectural design, energy-efficient systems, and world-class amenities that cater to the needs of discerning businesses."
+  },
+  "2": {
+    "icon": "fa-home",
+    "title": "Heritage Garden Estate",
+    "company": "Festus Asikhia Realty",
+    "location": "Abuja, Nigeria",
+    "year": "2020",
+    "status": "Completed",
+    "description": "A meticulously planned residential estate with 200+ modern homes, green spaces, and community facilities designed for comfortable family living.",
+    "highlights": [
+      "Over 200 modern residential units",
+      "Landscaped green spaces and parks",
+      "Community facilities including school and mosque",
+      "24/7 security and perimeter fencing"
+    ],
+    "full_description": "Heritage Garden Estate represents Festus Asikhia Realty's vision for modern, community-focused residential living in Nigeria's capital city. This estate was designed with families in mind, offering spacious homes with modern finishes, abundant green spaces, children's play areas, and community facilities that foster a strong sense of belonging."
+  },
+  "3": {
+    "icon": "fa-warehouse",
+    "title": "Excellence Business Park",
+    "company": "Festus Asikhia Realty",
+    "location": "Port Harcourt, Nigeria",
+    "year": "2024",
+    "status": "Ongoing",
+    "description": "A mixed-use development combining premium office spaces, conference facilities, and retail zones to create a vibrant business ecosystem.",
+    "highlights": [
+      "Mixed-use commercial development",
+      "Premium office spaces and conference facilities",
+      "Retail and commercial zones",
+      "Strategic location in Port Harcourt"
+    ],
+    "full_description": "Excellence Business Park is an ambitious mixed-use development aimed at creating a vibrant business ecosystem in Port Harcourt. This ongoing project combines premium office spaces, modern conference facilities, and retail zones to provide a comprehensive business environment. The development is designed to attract both local and international businesses."
+  },
+  "4": {
+    "icon": "fa-hotel",
+    "title": "Royal Suites Hotel",
+    "company": "Festus Asikhia Realty",
+    "location": "Benin City, Nigeria",
+    "year": "2019",
+    "status": "Completed",
+    "description": "A 5-star boutique hotel offering luxury accommodation, world-class dining, and premium conference facilities for discerning guests.",
+    "highlights": [
+      "5-star boutique hotel with luxury accommodations",
+      "World-class dining and restaurant facilities",
+      "Premium conference and event spaces",
+      "Prime location in Benin City"
+    ],
+    "full_description": "Royal Suites Hotel is a testament to Festus Asikhia Realty's ability to deliver world-class hospitality infrastructure. This 5-star boutique hotel features elegantly appointed rooms and suites, fine dining restaurants, a swimming pool, fitness center, and state-of-the-art conference facilities that can accommodate corporate events and social gatherings."
+  },
+  "5": {
+    "icon": "fa-school",
+    "title": "Knowledge City Academy",
+    "company": "Festus Asikhia Realty",
+    "location": "Ibadan, Nigeria",
+    "year": "2018",
+    "status": "Completed",
+    "description": "A purpose-built educational facility with modern classrooms, laboratories, and sports facilities serving over 1,000 students.",
+    "highlights": [
+      "Purpose-built educational facility",
+      "Modern classrooms and science laboratories",
+      "Sports facilities including football field and basketball court",
+      "Capacity for over 1,000 students"
+    ],
+    "full_description": "Knowledge City Academy is a purpose-built educational institution designed to provide an optimal learning environment for students in Ibadan. The facility features modern classrooms equipped with smart boards, well-equipped science laboratories, a library, computer lab, and extensive sports facilities. The academy serves over 1,000 students and has become a model for educational infrastructure development."
+  },
+  "6": {
+    "icon": "fa-shopping-mall",
+    "title": "Festus City Mall",
+    "company": "Festus Asikhia Realty",
+    "location": "Lagos, Nigeria",
+    "year": "2025",
+    "status": "Ongoing",
+    "description": "A modern shopping and entertainment complex featuring retail brands, a food court, cinema, and family entertainment center.",
+    "highlights": [
+      "Modern shopping and entertainment complex",
+      "International and local retail brands",
+      "Food court and cinema",
+      "Family entertainment center"
+    ],
+    "full_description": "Festus City Mall is an ambitious retail and entertainment development in Lagos. The mall will feature a carefully curated mix of international and local retail brands, a diverse food court offering various cuisines, a multi-screen cinema, and a family entertainment center. This development is set to become a premier shopping destination in Lagos."
+  }
+}

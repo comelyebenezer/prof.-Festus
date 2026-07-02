@@ -19,7 +19,7 @@ define('ASSET_PATH', SITE_URL . '/assets');
 define('IMAGE_PATH', ASSET_PATH . '/images');
 
 // Contact form
-define('CONTACT_EMAIL', 'contact@professorfestusasikhia.com');
+define('CONTACT_EMAIL', 'drfestusasikhia@gmail.com');
 define('CONTACT_NAME', 'Prof. Festus Uwakhemen Asikhia');
 
 // Database connection

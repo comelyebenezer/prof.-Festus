@@ -1,0 +1,86 @@
+{
+  "1": {
+    "icon": "fa-building",
+    "title": "Festus Asikhia Realty",
+    "role": "Founder & CEO",
+    "industry": "Real Estate",
+    "description": "A premier real estate development company delivering innovative property solutions and sustainable community development across Nigeria.",
+    "full_description": "Festus Asikhia Realty is the flagship business venture of Prof. Festus Uwakhemen Asikhia. Since its founding, the company has established itself as a leading real estate development firm in Nigeria, known for delivering high-quality residential, commercial, and mixed-use properties. The company's portfolio includes landmark projects such as Asikhia Towers, Heritage Garden Estate, and Excellence Business Park.",
+    "highlights": [
+      "Over a decade of excellence in property development",
+      "Portfolio of landmark commercial and residential projects",
+      "Commitment to sustainable and community-focused development",
+      "Recognized as one of Nigeria's fastest-growing realty firms"
+    ]
+  },
+  "2": {
+    "icon": "fa-university",
+    "title": "Asikhia Education Foundation",
+    "role": "Founder & Chairman",
+    "industry": "Education",
+    "description": "A non-profit organization dedicated to providing educational scholarships, building schools, and supporting academic excellence for underprivileged students.",
+    "full_description": "The Asikhia Education Foundation embodies Prof. Asikhia's lifelong commitment to education and social impact. The foundation provides scholarships to deserving but underprivileged students, builds and renovates schools in underserved communities, and supports educational programs that promote academic excellence and character development.",
+    "highlights": [
+      "Hundreds of scholarships awarded to deserving students",
+      "School construction and renovation projects across Nigeria",
+      "Partnerships with educational institutions and NGOs",
+      "Focus on STEM education and girls' education"
+    ]
+  },
+  "3": {
+    "icon": "fa-seedling",
+    "title": "Greenfield Agro-Allied",
+    "role": "Co-Founder & Director",
+    "industry": "Agriculture",
+    "description": "An innovative agricultural company focused on sustainable farming, food processing, and agro-allied products for local and export markets.",
+    "full_description": "Greenfield Agro-Allied is a forward-thinking agricultural enterprise that combines modern farming techniques with traditional knowledge to produce high-quality agricultural products. The company is involved in crop cultivation, food processing, and the production of agro-allied products for both domestic and international markets.",
+    "highlights": [
+      "Sustainable farming practices and environmental stewardship",
+      "Food processing and value addition to agricultural products",
+      "Export-oriented production for international markets",
+      "Employment generation and rural community development"
+    ]
+  },
+  "4": {
+    "icon": "fa-chart-bar",
+    "title": "Asikhia Consulting Group",
+    "role": "Principal Consultant",
+    "industry": "Consulting",
+    "description": "A strategic consulting firm providing expert advisory services in management, leadership development, organizational transformation, and policy analysis.",
+    "full_description": "Asikhia Consulting Group leverages Prof. Asikhia's decades of experience in academia, business, and public service to provide world-class consulting services. The firm specializes in management consulting, leadership development programs, organizational transformation, and policy analysis for corporate and government clients.",
+    "highlights": [
+      "Strategic advisory services for corporate and government clients",
+      "Leadership development and executive coaching programs",
+      "Organizational transformation and change management",
+      "Policy analysis and development consulting"
+    ]
+  },
+  "5": {
+    "icon": "fa-hotel",
+    "title": "Royal Heritage Hospitality",
+    "role": "Chairman",
+    "industry": "Hospitality",
+    "description": "A growing hospitality chain operating boutique hotels and luxury accommodation facilities that offer world-class service and experiences.",
+    "full_description": "Royal Heritage Hospitality is a rapidly growing hospitality chain that operates boutique hotels and luxury accommodation facilities across Nigeria. The company is committed to providing world-class hospitality services that showcase Nigerian warmth and cultural richness while maintaining international standards of excellence.",
+    "highlights": [
+      "Boutique hotels in prime Nigerian locations",
+      "Commitment to world-class hospitality standards",
+      "Creation of employment opportunities in the tourism sector",
+      "Promotion of Nigerian culture and hospitality"
+    ]
+  },
+  "6": {
+    "icon": "fa-newspaper",
+    "title": "Heritage Media Group",
+    "role": "Publisher & Editor-in-Chief",
+    "industry": "Media & Publishing",
+    "description": "A media and publishing house producing educational materials, leadership journals, and digital content that inspires and informs.",
+    "full_description": "Heritage Media Group is a diversified media and publishing company that produces educational materials, leadership and management journals, and digital content. The company is dedicated to promoting knowledge, inspiring leadership, and contributing to intellectual discourse in Nigeria and beyond.",
+    "highlights": [
+      "Publication of educational materials and academic journals",
+      "Digital content production and online publishing",
+      "Promotion of leadership and management knowledge",
+      "Contribution to intellectual discourse in Africa"
+    ]
+  }
+}

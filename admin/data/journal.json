@@ -1,0 +1,58 @@
+{
+  "1": {
+    "icon": "fa-scroll",
+    "title": "Transformational Leadership in Higher Education",
+    "journal": "Journal of Educational Management",
+    "volume": "Vol. 15, No. 2, 2024",
+    "description": "An empirical study examining the impact of transformational leadership practices on institutional performance and student outcomes in Nigerian universities.",
+    "full_description": "This empirical study examines the impact of transformational leadership practices on institutional performance and student outcomes in Nigerian universities. Drawing on a comprehensive survey of 24 universities across Nigeria's six geo-political zones, the research provides compelling evidence for the critical role of leadership in shaping educational excellence. Transformational leadership — characterized by idealized influence, inspirational motivation, intellectual stimulation, and individualized consideration — was found to have a statistically significant positive correlation with both institutional performance metrics and student academic outcomes.",
+    "highlights": [
+      "Survey of 24 universities across Nigeria's six geo-political zones",
+      "Transformational leadership positively correlated with institutional performance",
+      "Intellectual stimulation had strongest effect on research productivity",
+      "Recommendations for systematic leadership development among university administrators"
+    ]
+  },
+  "2": {
+    "icon": "fa-scroll",
+    "title": "Sustainable Urban Development in West Africa",
+    "journal": "African Journal of Real Estate Studies",
+    "volume": "Vol. 8, No. 1, 2023",
+    "description": "A comprehensive analysis of sustainable urban development practices and their socio-economic impact on emerging West African cities.",
+    "full_description": "This comprehensive analysis examines sustainable urban development practices and their socio-economic impact on emerging West African cities. As the region experiences unprecedented urbanization, the need for sustainable approaches to city development has never been more urgent. The research evaluates urban development projects across five West African capitals — Abuja, Accra, Lagos, Dakar, and Abidjan — assessing their adherence to sustainability principles and their effectiveness in promoting inclusive economic growth.",
+    "highlights": [
+      "Evaluation of projects across five West African capitals",
+      "Integrated planning approaches yield better sustainability outcomes",
+      "Community participation critical for long-term project viability",
+      "Policy recommendations for green infrastructure and local capacity building"
+    ]
+  },
+  "3": {
+    "icon": "fa-scroll",
+    "title": "Public Policy and Educational Reform",
+    "journal": "Journal of Public Administration",
+    "volume": "Vol. 22, No. 4, 2022",
+    "description": "Examining the relationship between public policy frameworks and successful educational reform implementation in developing economies.",
+    "full_description": "This research examines the relationship between public policy frameworks and successful educational reform implementation in developing economies. Focusing on Nigeria's recent educational reform initiatives, the study offers insights into the conditions under which policy translates into meaningful change. The study employs a mixed-methods approach, combining quantitative analysis of educational outcomes data with qualitative interviews of policymakers, administrators, teachers, and community members across twelve Nigerian states.",
+    "highlights": [
+      "Mixed-methods study across twelve Nigerian states",
+      "Political will, funding, stakeholder involvement, and monitoring key to reform success",
+      "Policy coherence with existing frameworks critical for implementation",
+      "Implementation challenges include capacity constraints and political transitions"
+    ]
+  },
+  "4": {
+    "icon": "fa-scroll",
+    "title": "Entrepreneurship and Economic Empowerment",
+    "journal": "International Journal of Business Studies",
+    "volume": "Vol. 18, No. 3, 2021",
+    "description": "Investigating the role of entrepreneurship education and small business development in driving economic empowerment and poverty reduction.",
+    "full_description": "This research investigates the role of entrepreneurship education and small business development in driving economic empowerment and poverty reduction. In a continent where youth unemployment remains a critical challenge, understanding how entrepreneurship can create pathways to prosperity is essential. The study surveys 500 small business owners across Nigeria who participated in entrepreneurship development programs, tracking their business performance, income levels, and employment generation over a three-year period.",
+    "highlights": [
+      "Survey of 500 small business owners over three-year period",
+      "Entrepreneurship education significantly improves business survival and growth",
+      "Access to capital identified as single most important success factor",
+      "Policy recommendations for expanding entrepreneurship education and funding"
+    ]
+  }
+}

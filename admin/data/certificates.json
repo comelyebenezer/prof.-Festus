@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Senior Management Leadership",
+    "institution": "Harvard Business School"
+  },
+  {
+    "id": 2,
+    "title": "Public Policy Analysis",
+    "institution": "Kennedy School of Government"
+  },
+  {
+    "id": 3,
+    "title": "Real Estate Investment",
+    "institution": "MIT Professional Education"
+  },
+  {
+    "id": 4,
+    "title": "Strategic Management",
+    "institution": "University of Oxford"
+  },
+  {
+    "id": 5,
+    "title": "Corporate Governance",
+    "institution": "Institute of Directors"
+  },
+  {
+    "id": 6,
+    "title": "Project Management",
+    "institution": "PMI Global"
+  },
+  {
+    "id": 7,
+    "title": "Data Analytics & AI",
+    "institution": "Stanford University"
+  },
+  {
+    "id": 8,
+    "title": "Financial Management",
+    "institution": "London Business School"
+  },
+  {
+    "id": 9,
+    "title": "Negotiation & Diplomacy",
+    "institution": "Oxford Said Business School"
+  }
+]

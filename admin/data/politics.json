@@ -1,0 +1,58 @@
+{
+  "1": {
+    "icon": "fa-landmark",
+    "title": "Senatorial Candidate",
+    "position": "Federal Republic of Nigeria",
+    "period": "2023 - Present",
+    "description": "Contested for the Senate on a platform of educational reform, economic empowerment, and infrastructure development. Championing policies for youth development and industrial growth.",
+    "full_description": "Prof. Festus Uwakhemen Asikhia's senatorial candidacy represents his commitment to translating academic excellence and business acumen into transformative public service. His campaign platform focused on three key pillars: educational reform to equip Nigerian youth with 21st-century skills, economic empowerment through entrepreneurship and job creation, and infrastructure development to drive sustainable growth across the constituency.",
+    "highlights": [
+      "Comprehensive education reform advocacy at national level",
+      "Youth empowerment and entrepreneurship programs",
+      "Infrastructure development and community projects",
+      "Policy proposals for industrial growth and economic diversification"
+    ]
+  },
+  "2": {
+    "icon": "fa-building",
+    "title": "Special Adviser on Economic Matters",
+    "position": "State Government",
+    "period": "2019 - 2023",
+    "description": "Provided strategic economic advisory services, contributing to policy formulation and implementation that drove significant economic growth and development.",
+    "full_description": "As Special Adviser on Economic Matters to the State Government, Prof. Asikhia leveraged his extensive academic and business experience to shape economic policy. He played a pivotal role in formulating strategies that attracted investment, promoted public-private partnerships, and created an enabling environment for business growth. His tenure saw measurable improvements in key economic indicators.",
+    "highlights": [
+      "Formulation of state-level economic policies",
+      "Investment attraction and retention strategies",
+      "Public-private partnership framework development",
+      "Advisory role on fiscal policy and budget planning"
+    ]
+  },
+  "3": {
+    "icon": "fa-users",
+    "title": "Community Development Chairman",
+    "position": "Local Government Council",
+    "period": "2015 - 2019",
+    "description": "Led community development initiatives focusing on education, healthcare, and infrastructure improvement at the grassroots level.",
+    "full_description": "As Community Development Chairman, Prof. Asikhia worked at the grassroots level to identify and address the most pressing needs of local communities. He spearheaded numerous projects including school renovations, healthcare center upgrades, and road infrastructure improvements. His community-first approach ensured that development projects were aligned with the actual needs of the people.",
+    "highlights": [
+      "Rehabilitation of community schools and educational facilities",
+      "Upgrades to primary healthcare centers",
+      "Road and drainage infrastructure projects",
+      "Community engagement and participatory development planning"
+    ]
+  },
+  "4": {
+    "icon": "fa-gavel",
+    "title": "Policy Advisory Board Member",
+    "position": "National Economic Council",
+    "period": "2012 - 2015",
+    "description": "Served on key policy advisory boards, contributing academic expertise to national economic and educational policy development.",
+    "full_description": "Prof. Asikhia's appointment to the National Economic Council's Policy Advisory Board was a recognition of his deep expertise in organizational leadership, educational management, and economic development. He contributed to the formulation of national policies on education reform, economic diversification, and youth employment. His academic research informed evidence-based policy recommendations.",
+    "highlights": [
+      "National education policy review and recommendations",
+      "Economic diversification strategy development",
+      "Youth employment and skills development initiatives",
+      "Cross-sectoral policy coordination and stakeholder engagement"
+    ]
+  }
+}
