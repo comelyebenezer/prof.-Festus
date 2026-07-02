@@ -40,7 +40,7 @@
                 </div>
             </div>
 
-            <div class="award-card">
+            <div class="award-card hidden-journal">
                 <div class="award-icon"><i class="fas fa-scroll"></i></div>
                 <div class="award-info">
                     <h4>Entrepreneurship and Economic Empowerment</h4>
@@ -49,6 +49,12 @@
                     <p>Investigating the role of entrepreneurship education and small business development in driving economic empowerment and poverty reduction.</p>
                 </div>
             </div>
+        </div>
+
+        <div class="journal-more-btn" style="text-align:center;margin-top:48px;">
+            <button class="btn btn-outline" id="seeMoreJournal">
+                See More <i class="fas fa-chevron-down"></i>
+            </button>
         </div>
     </div>
 </section>

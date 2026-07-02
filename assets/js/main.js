@@ -327,6 +327,25 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
+    // ===== See More / Show Less Toggle =====
+    function setupSeeMore(btnId, hiddenClass) {
+        const btn = document.getElementById(btnId);
+        if (!btn) return;
+        const items = document.querySelectorAll('.' + hiddenClass);
+        btn.addEventListener('click', function() {
+            const isExpanded = this.classList.toggle('expanded');
+            items.forEach(item => {
+                item.style.display = isExpanded ? 'block' : 'none';
+            });
+            this.innerHTML = isExpanded
+                ? 'Show Less <i class="fas fa-chevron-up"></i>'
+                : 'See More <i class="fas fa-chevron-down"></i>';
+        });
+    }
+    setupSeeMore('seeMoreBooks', 'hidden-book');
+    setupSeeMore('seeMoreJournal', 'hidden-journal');
+    setupSeeMore('seeMoreArticles', 'hidden-article');
+
     console.log('%c Prof. Festus Uwakhemen Asikhia ',
         'background: #d4a843; color: #0a0e1a; font-size: 14px; font-weight: bold; padding: 10px 20px; border-radius: 4px;');
     console.log('%c Excellence is a continuous journey. ', 'color: #e2e8f0; font-size: 12px; font-style: italic;');

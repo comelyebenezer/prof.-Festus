@@ -1,6 +1,6 @@
 <section class="real-estate section-padding" id="articles">
     <div class="container">
-        <div class="section-header reveal" style="text-align: left;">
+        <div class="section-header reveal">
             <span class="section-label">Articles</span>
             <h2 class="section-title">Featured Articles</h2>
             <p class="section-subtitle">
@@ -53,7 +53,7 @@
                 </div>
             </div>
 
-            <div class="estate-card">
+            <div class="estate-card hidden-article">
                 <div class="estate-image" style="height: 160px; font-size: 2rem;">
                     <i class="fas fa-newspaper"></i>
                 </div>
@@ -66,6 +66,12 @@
                     </div>
                 </div>
             </div>
+        </div>
+
+        <div class="articles-more-btn" style="text-align:center;margin-top:48px;">
+            <button class="btn btn-outline" id="seeMoreArticles">
+                See More <i class="fas fa-chevron-down"></i>
+            </button>
         </div>
     </div>
 </section>

@@ -31,11 +31,7 @@
                 </p>
 
                 <div class="hero-buttons">
-                    <a href="#about" class="btn btn-primary">
-                        Explore My Journey
-                        <i class="fas fa-arrow-right"></i>
-                    </a>
-                    <a href="#contact" class="btn btn-outline">
+                    <a href="#contact" class="btn btn-primary">
                         Get In Touch
                         <i class="fas fa-envelope"></i>
                     </a>

@@ -58,7 +58,7 @@
                 </div>
             </div>
 
-            <div class="book-card">
+            <div class="book-card hidden-book">
                 <div class="book-icon"><i class="fas fa-book"></i></div>
                 <h3>Governance and Accountability</h3>
                 <div class="book-subtitle">Building Trust in Public Service</div>
@@ -70,7 +70,7 @@
                 </div>
             </div>
 
-            <div class="book-card">
+            <div class="book-card hidden-book">
                 <div class="book-icon"><i class="fas fa-book"></i></div>
                 <h3>The Entrepreneur's Mindset</h3>
                 <div class="book-subtitle">Strategies for Business Success</div>
@@ -81,6 +81,12 @@
                     <span><i class="fas fa-book-open"></i> 230 pages</span>
                 </div>
             </div>
+        </div>
+
+        <div class="books-more-btn">
+            <button class="btn btn-outline" id="seeMoreBooks">
+                See More <i class="fas fa-chevron-down"></i>
+            </button>
         </div>
     </div>
 </section>

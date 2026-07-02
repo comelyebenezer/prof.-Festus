@@ -848,8 +848,22 @@ pre, code {
 
 .books-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 32px;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 24px;
+}
+
+.book-card.hidden-book {
+    display: none;
+}
+
+.books-more-btn {
+    display: block;
+    margin: 48px auto 0;
+    text-align: center;
+}
+
+.books-more-btn .btn {
+    cursor: pointer;
 }
 
 .book-card {
@@ -934,6 +948,14 @@ pre, code {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
     gap: 24px;
+}
+
+#journal .awards-grid {
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.award-card.hidden-journal {
+    display: none;
 }
 
 .award-card {
@@ -1042,10 +1064,26 @@ pre, code {
     margin: 0;
 }
 
+#articles .section-header {
+    text-align: center;
+}
+
+#articles .section-header .section-subtitle {
+    margin: 0 auto;
+}
+
 .estate-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
     gap: 28px;
+}
+
+#articles .estate-grid {
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.estate-card.hidden-article {
+    display: none;
 }
 
 .estate-card {
@@ -1967,6 +2005,7 @@ textarea.form-control {
     .section-title { font-size: 2rem; }
 
     .awards-grid { grid-template-columns: repeat(2, 1fr); gap: 16px; }
+    #journal .awards-grid { grid-template-columns: repeat(2, 1fr); }
     .certificates-grid { grid-template-columns: repeat(3, 1fr); gap: 12px; }
 }
 
@@ -1995,14 +2034,16 @@ textarea.form-control {
     .about-quote { padding: 16px 20px; }
     .about-quote blockquote { font-size: 0.9rem; }
 
-    .books-grid { grid-template-columns: 1fr; gap: 16px; }
+    .books-grid { grid-template-columns: repeat(2, 1fr); gap: 16px; }
     .book-card { padding: 20px; }
     .book-card h3 { font-size: 1.05rem; }
 
     .awards-grid { grid-template-columns: 1fr; gap: 12px; }
+    #journal .awards-grid { grid-template-columns: 1fr; }
     .award-card { padding: 16px; gap: 12px; }
 
     .estate-grid { grid-template-columns: 1fr; gap: 16px; }
+    #articles .estate-grid { grid-template-columns: repeat(2, 1fr); }
     .estate-image { height: 180px; }
 
     .politics-grid { grid-template-columns: 1fr; gap: 16px; }
@@ -2103,6 +2144,7 @@ textarea.form-control {
     .section-label { font-size: 0.7rem; padding-left: 32px; }
     .section-label::before { width: 22px; }
 
+    .books-grid { grid-template-columns: repeat(2, 1fr); }
     .book-card { padding: 24px; }
     .book-icon { font-size: 2rem; margin-bottom: 16px; }
     .book-card h3 { font-size: 1.05rem; }
@@ -2178,9 +2220,10 @@ textarea.form-control {
     .section-subtitle { font-size: 0.85rem; }
     .section-header { margin-bottom: 28px; }
 
-    .books-grid { gap: 16px; }
+    .books-grid { grid-template-columns: 1fr; gap: 16px; }
     .book-card { padding: 20px; }
 
+    #articles .estate-grid { grid-template-columns: 1fr; }
     .estate-image { height: 160px; font-size: 2rem; }
     .estate-card-body { padding: 16px; }
     .estate-card-body p { font-size: 0.85rem; }

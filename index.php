@@ -65,6 +65,8 @@
         <?php include 'includes/sections/about.php'; ?>
         <?php include 'includes/sections/academics.php'; ?>
         <?php include 'includes/sections/books.php'; ?>
+        <?php include 'includes/sections/journal.php'; ?>
+        <?php include 'includes/sections/articles.php'; ?>
         <?php include 'includes/sections/awards.php'; ?>
         <?php include 'includes/sections/real-estate.php'; ?>
         <?php include 'includes/sections/politics.php'; ?>
@@ -72,8 +74,6 @@
         <?php include 'includes/sections/timeline.php'; ?>
         <?php include 'includes/sections/testimonials.php'; ?>
         <?php include 'includes/sections/blog.php'; ?>
-        <?php include 'includes/sections/journal.php'; ?>
-        <?php include 'includes/sections/articles.php'; ?>
         <?php include 'includes/sections/contact.php'; ?>
     </main>
 
