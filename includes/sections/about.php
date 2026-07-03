@@ -3,9 +3,7 @@
         <div class="about-grid">
             <div class="about-image-wrapper reveal-left">
                 <div class="about-image">
-                    <div class="placeholder-img">
-                        <span>Prof. Festus Asikhia</span>
-                    </div>
+                    <img src="assets/images/camp 1.jpeg" alt="Prof. Festus Asikhia">
                 </div>
                 <div class="about-experience-badge">
                     <span class="number">30+</span>
@@ -37,29 +35,6 @@
                     excellence in every endeavor.
                 </p>
 
-                <div class="about-stats stagger-children">
-                    <div class="about-stat">
-                        <div class="about-stat-icon"><i class="fas fa-book"></i></div>
-                        <span class="about-stat-number counter" data-target="12">0</span>
-                        <span class="about-stat-label">Books Published</span>
-                    </div>
-                    <div class="about-stat">
-                        <div class="about-stat-icon"><i class="fas fa-trophy"></i></div>
-                        <span class="about-stat-number counter" data-target="200">0</span>
-                        <span class="about-stat-label">Awards Received</span>
-                    </div>
-                    <div class="about-stat">
-                        <div class="about-stat-icon"><i class="fas fa-building"></i></div>
-                        <span class="about-stat-number counter" data-target="150">0</span>
-                        <span class="about-stat-label">Projects</span>
-                    </div>
-                    <div class="about-stat">
-                        <div class="about-stat-icon"><i class="fas fa-graduation-cap"></i></div>
-                        <span class="about-stat-number counter" data-target="100">0</span>
-                        <span class="about-stat-label">Mentored</span>
-                    </div>
-                </div>
-
                 <div class="about-quote">
                     <blockquote>
                         "Excellence is not a destination; it is a continuous journey of growth,
@@ -67,6 +42,29 @@
                     </blockquote>
                     <cite>- Prof. Festus Uwakhemen Asikhia</cite>
                 </div>
+            </div>
+        </div>
+
+        <div class="about-stats stagger-children">
+            <div class="about-stat">
+                <div class="about-stat-icon"><i class="fas fa-book"></i></div>
+                <span class="about-stat-number counter" data-target="12">0</span>
+                <span class="about-stat-label">Books Published</span>
+            </div>
+            <div class="about-stat">
+                <div class="about-stat-icon"><i class="fas fa-trophy"></i></div>
+                <span class="about-stat-number counter" data-target="200">0</span>
+                <span class="about-stat-label">Awards Received</span>
+            </div>
+            <div class="about-stat">
+                <div class="about-stat-icon"><i class="fas fa-building"></i></div>
+                <span class="about-stat-number counter" data-target="150">0</span>
+                <span class="about-stat-label">Projects</span>
+            </div>
+            <div class="about-stat">
+                <div class="about-stat-icon"><i class="fas fa-graduation-cap"></i></div>
+                <span class="about-stat-number counter" data-target="100">0</span>
+                <span class="about-stat-label">Mentored</span>
             </div>
         </div>
     </div>
